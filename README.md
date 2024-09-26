@@ -47,3 +47,4 @@ $dbname = "tenders";
 3. DOMDocument
 4. DOMXPath
 5. Regular Expressions
+6. HTML
